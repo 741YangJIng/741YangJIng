@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 2"
+title: "2. A Systematic Literature Review of Information Security in Chatbots"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Yang, Jing, Yen-Lin Chen, Lip Yee Por, and Chin Soon Ku. "A systematic literature review of information security in chatbots." Applied Sciences 13, no. 11 (2023): 6355.'
+date: 23 May 2023
+venue: 'Paper 1'
+paperurl: 'https://www.mdpi.com/2076-3417/13/11/6355'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
